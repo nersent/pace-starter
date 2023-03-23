@@ -30,6 +30,10 @@ Run with hot reload
 cargo watch -x run
 ```
 
+## Documentation
+
+Visit [docs](https://github.com/nersent.pace/docs/readme.md) to view Pace documentation.
+
 ## Examples
 
 See already implemented indicators and strategies [here](https://github.com/nersent/pace/pace/src/content).
@@ -68,10 +72,6 @@ The files you should look at are:
 - `src/tests/custom_indicator_test.rs`
 
 It is recommende to seperate strategy and indicator into separate modules, allowing easier testing and development.
-
-## Documentation
-
-Visit [docs](https://github.com/nersent.pace/docs/readme.md) to view Pace documentation.
 
 ---
 
