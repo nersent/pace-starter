@@ -9,6 +9,6 @@ codegen-units = 1
 panic = "abort"
 
 [dependencies]
-nersent_pace = "0.0.6"
+nersent_pace = "0.1.0"
 chrono = "0.4.23"
 polars = { version = "0.27.2", features = ["parquet", "lazy"] }

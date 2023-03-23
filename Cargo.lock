@@ -1372,9 +1372,9 @@ dependencies = [
 
 [[package]]
 name = "nersent_pace"
-version = "0.0.6"
+version = "0.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "38ecb907ee815ed3b7340febcd2b149aaef1938d297b95a9655dfb013fff8511"
+checksum = "c88cb246298bfa1c12a1d59421f01c819da329f607e88d5e218ec2b1e6ad5b2b"
 dependencies = [
  "chrono",
  "colored",
