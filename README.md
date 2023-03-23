@@ -67,11 +67,11 @@ The files you should look at are:
 - `src/custom_indicator.rs`
 - `src/tests/custom_indicator_test.rs`
 
-The recommendation is to seperate your strategy and indicator into separate modules, allowing easier testing and development.
+It is recommende to seperate strategy and indicator into separate modules, allowing easier testing and development.
 
 ## Documentation
 
-Visit [docs](https://github.com/nersent.pace/docs/index.md) to view Pace documentation.
+Visit [docs](https://github.com/nersent.pace/docs/readme.md) to view Pace documentation.
 
 ---
 
